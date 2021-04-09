@@ -1,0 +1,23 @@
+
+{
+           "products":  [
+                {
+         "id": 1,
+        "name": "caneta bic preta",
+        "price": 5.80
+        },
+        {
+          
+            "id": 2,
+            "name": "Notebook ",
+            "price": 10000.80
+            },
+            {
+            
+            "id": 3,
+            "name": "celular s8",
+            "price": 1500.80
+            
+            }
+        ]
+}
